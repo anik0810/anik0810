@@ -39,7 +39,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
  <h3 align="center">📈My Stats</h3>
-<!-- [![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph) -->
+ 
+[![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph)
  
  </div>
 
