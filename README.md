@@ -1,8 +1,8 @@
 ### Hi there 👋
 <br/>
 <h2 align="left">I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Anik Dutta</a></h2>
-<hr/>
-
+<p>B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef,Full Stack Devoloper using MERN Stack 😉.Currently Learning Advnce DSA 😊.</p>
+<br/><br/>
 - 🌱 I’m currently learning React Js
 - 💬 Ask me about Web Devolopment
 - 📫 How to reach me: anikdutta0810@gmail.com
