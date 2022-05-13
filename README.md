@@ -43,7 +43,7 @@
   
  </div>
  
-  <div align="right" margin-top="-5rem">
+  <div align="right" mt="-5rem">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&layout=compact)](https://github.com/anik0810/github-readme-stats)
   
