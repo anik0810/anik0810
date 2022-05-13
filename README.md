@@ -32,7 +32,7 @@
 </p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=anik0810&theme=dark)](https://github.com/anik0810/github-readme-streak-stats) -->
 
-<h3 align="center">My Stats📈</h3>
+<h3 align="center">📈My Stats</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
