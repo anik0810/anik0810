@@ -45,7 +45,7 @@
  
  <div align="center">
   
-  [![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810)](https://github.com/anik0810/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&layout=compact)](https://github.com/anik0810/github-readme-stats)
   
  </div>
 
