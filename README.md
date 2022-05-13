@@ -37,13 +37,13 @@
  
  <h3 align="center">📊My Github Stats</h3>
  <br/>
- <div align="left">
+ <div align="center">
   
   [![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810)](https://github.com/anik0810/github-readme-stats)
   
  </div>
  
- <div align="right">
+ <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&hide=contribs,prs)
   
