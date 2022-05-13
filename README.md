@@ -33,23 +33,22 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  <h3 align="center">📊My Github Stats</h3>
  
- <div align="left">
+ <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&show_icons=true&hide_border=true&theme=radical)
   
  </div>
  
-  <div align="right" mt="-5rem">
+  <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&layout=compact)](https://github.com/anik0810/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&hide_border=true&layout=compact)](https://github.com/anik0810/github-readme-stats)
   
  </div>
 
- <br/>
  
  <h3 align="center">📈My Contribution</h3>
  <br/>
