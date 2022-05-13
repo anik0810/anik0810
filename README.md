@@ -1,6 +1,7 @@
 ### Hi there 👋
 <br/>
-<h3 align="left">I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Anik Dutta</a></h3>
+<h2 align="left">I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Anik Dutta</a></h2>
+<hr/>
 
 - 🌱 I’m currently learning React Js
 - 💬 Ask me about Web Devolopment
