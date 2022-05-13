@@ -39,13 +39,13 @@
  
  <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&show_icons=true&hide_border=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&hide_border=true&layout=compact)](https://github.com/anik0810/github-readme-stats)
   
  </div>
  
   <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&hide_border=true&layout=compact)](https://github.com/anik0810/github-readme-stats)
+  ![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&show_icons=true&hide_border=true&theme=radical)
   
  </div>
 
