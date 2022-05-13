@@ -30,13 +30,12 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" padding-right="4rem"/> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" padding-right="4rem"/> </a> </a>
 </p>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=anik0810&theme=dark)](https://github.com/anik0810/github-readme-streak-stats) -->
 
-<h3 align="center">🔥My Contribution</h3>
-<br/>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+ <h3 align="center"></h3>
 
  <h3 align="center">📈My Stats</h3>
  <br/>
