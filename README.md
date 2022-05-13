@@ -3,9 +3,9 @@
 <p>B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef,Full Stack Devoloper using MERN Stack 😉.Currently Learning Advnce DSA 😊.</p>
 <br/>
 <ul>
- <li>🌱 I’m currently learning React Js<li/>
- <li>💬 Ask me about Web Devolopment<li/>
- <li>📫 How to reach me: anikdutta0810@gmail.com <li/>
+ <li>🌱 I’m currently learning React Js
+ <li>💬 Ask me about Web Devolopment
+ <li>📫 How to reach me: anikdutta0810@gmail.com 
  </ul>
 
 <h3 align="left">Languages and Tools:</h3>
