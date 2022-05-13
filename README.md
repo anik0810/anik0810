@@ -10,7 +10,7 @@
  <li>🌱 I’m currently learning React Js and Advance DSA<br/><br/>
  <li>💬 Ask me about Web Devolopment <br/><br/>
  <li>🤷‍ For Detailed Information check it <a href="https://drive.google.com/file/d/14_0oR1SHdJXtGUg6IQ2nFNsi8SVW4ztQ/view?usp=sharing">My CV</a><br/><br/>
- <li>📫 How to reach me: <a href="anikdutta0810@gmail.com">anikdutta0810@gmail.com</a> <br/><br/>
+ <li>📫 How to reach me: <a href="mailto:@anikdutta0810@gmail.com">anikdutta0810@gmail.com</a> <br/><br/>
  </ul>
 </p1>
  </div>
