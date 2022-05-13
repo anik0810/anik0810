@@ -32,11 +32,13 @@
 </p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=anik0810&theme=dark)](https://github.com/anik0810/github-readme-streak-stats) -->
 
-<!-- [![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph) -->
+<h3 align="center">My Stats📈</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<h3 align="center">💕Connect With Me</h3>
+[![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph)
+
+<h3 align="center">Connect With Me 💕</h3>
 <p align="center"><a href="https://twitter.com/anikdut13074562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikdut13074562" height="35" width="45" /></a>
 <a href="https://linkedin.com/in/anik-dutta-86526021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-dutta-86526021b" height="35" width="45" /></a>
 <a href="https://instagram.com/_.anik._08.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anik._08.10" height="35" width="45" /></a>
