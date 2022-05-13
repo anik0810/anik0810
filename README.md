@@ -30,9 +30,11 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" padding-right="4rem"/> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" padding-right="4rem"/> </a> </a>
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=anik0810&theme=dark)](https://github.com/anik0810/github-readme-streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=anik0810&theme=dark)](https://github.com/anik0810/github-readme-streak-stats) -->
 
 <!-- [![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="center">💕Connect With Me</h3>
 <p align="center"><a href="https://twitter.com/anikdut13074562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikdut13074562" height="35" width="45" /></a>
