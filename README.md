@@ -39,7 +39,7 @@
  <br/>
  <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&hide=contribs,prs)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&show_icons=true&theme=radical)
   
  </div>
  
