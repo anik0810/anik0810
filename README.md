@@ -37,7 +37,7 @@
  
  <h3 align="center"></h3>
 
- <h3 align="center">📈My Stats</h3>
+ <h3 align="center">📈My Contribution</h3>
  <br/>
  
 [![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph)
