@@ -36,12 +36,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  <h3 align="center">📊My Github Stats</h3>
+ <br/>
  
- <div align="center">
+<!--  <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&hide_border=true&layout=compact)](https://github.com/anik0810/github-readme-stats)
   
- </div>
+ </div> -->
  
   <div align="center">
   
