@@ -9,6 +9,7 @@
 <ul line-height="3">
  <li>🌱 I’m currently learning React Js and Advance DSA<br/><br/>
  <li>💬 Ask me about Web Devolopment <br/><br/>
+ <li>🤷‍ For Detailed Information check it <a href="https://drive.google.com/file/d/1u0z_vw03YQfz7F22kTb2EvyJFajCcDbA/view?usp=sharing">My CV</a>
  <li>📫 How to reach me: anikdutta0810@gmail.com <br/><br/>
  </ul>
 </p1>
