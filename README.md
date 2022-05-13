@@ -60,7 +60,7 @@
  
  </div>
 
-<h3 align="center">Connect With Me 💕</h3>
+<h3 align="center">💕Connect With Me</h3>
 <p align="center"><a href="https://twitter.com/anikdut13074562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikdut13074562" height="35" width="45" /></a>
 <a href="https://linkedin.com/in/anik-dutta-86526021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-dutta-86526021b" height="35" width="45" /></a>
 <a href="https://instagram.com/_.anik._08.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anik._08.10" height="35" width="45" /></a>
