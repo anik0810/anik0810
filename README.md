@@ -32,7 +32,7 @@
 </p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=anik0810&theme=dark)](https://github.com/anik0810/github-readme-streak-stats)
 
-[![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph)
+<!-- [![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph) -->
 
 <h3 align="center">💕Connect With Me</h3>
 <p align="center"><a href="https://twitter.com/anikdut13074562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikdut13074562" height="35" width="45" /></a>
