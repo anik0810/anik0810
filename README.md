@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
-<h1 align="center">I'm Anik Dutta</h1>
+<h1 align="left">I'm Anik Dutta</h1>
 
 - 🌱 I’m currently learning React Js
 - 💬 Ask me about Web Devolopment
