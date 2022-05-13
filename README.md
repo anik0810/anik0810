@@ -37,13 +37,13 @@
  
  <h3 align="center">📊My Github Stats</h3>
  <br/>
- <div align="center">
+ <div align="left">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&show_icons=true&theme=radical)
   
  </div>
  
- <div align="center">
+ <div align="right">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&layout=compact)](https://github.com/anik0810/github-readme-stats)
   
