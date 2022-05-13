@@ -39,13 +39,13 @@
  <br/>
  <div align="center">
   
-  [![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810)](https://github.com/anik0810/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&hide=contribs,prs)
   
  </div>
  
  <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&hide=contribs,prs)
+  [![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810)](https://github.com/anik0810/github-readme-stats)
   
  </div>
 
