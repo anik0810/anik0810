@@ -51,7 +51,7 @@
  </div>
 
  
- <h2 align="left">📈My Contribution</h2>
+ <h2 align="center">📈My Contribution</h2>
  <br/>
  
 [![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph)
