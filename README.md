@@ -64,3 +64,6 @@
 <a href="https://instagram.com/_.anik._08.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anik._08.10" height="35" width="45" /></a>
 </p>
  
+<div align ="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
