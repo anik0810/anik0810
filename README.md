@@ -11,7 +11,7 @@
  <li>🌱 I’m currently learning React Js and Advance DSA<br/><br/>
  <li>💬 Ask me about Web Devolopment <br/><br/>
  <li>🎯Goal in 2022 is to be a expert Full Stack Web Devoloper <br/><br/>
- <li>🤷‍ For Detailed Information check <a href="https://drive.google.com/file/d/14_0oR1SHdJXtGUg6IQ2nFNsi8SVW4ztQ/view?usp=sharing">My CV</a><br/><br/>
+ <li>🤷‍ For Detailed Information check <a href="https://drive.google.com/file/d/1U8xEu7rGUjt87ZB8FFtE7vKl7jKqTMHZ/view?usp=sharing">My RESUME</a><br/><br/>
  <li>📫 How to reach me: <a href="mailto:@anikdutta0810@gmail.com">anikdutta0810@gmail.com</a> <br/><br/>
  </ul>
 </p1>
