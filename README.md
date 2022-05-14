@@ -1,5 +1,5 @@
 <br/>
-<h2 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Anik Dutta</a></h2>
+<h1 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Anik Dutta</a></h1>
 <p align="center">B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef,Full Stack Devoloper using MERN Stack 😉.Currently Learning Advnce DSA 😊.</p>
 <br/>
 <p1>
@@ -18,7 +18,6 @@
  
 
 <h2 align="left">🚀Languages</h2>
-<br/>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" padding="2rem"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" padding="2rem"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" padding="2rem" /> </a>
@@ -58,7 +57,7 @@
  
  </div>
 
-<h2 align="left">💕Connect With Me</h2>
+<h2 align="left">💕Connect With Me 💕</h2>
 <p align="left"><a href="https://twitter.com/anikdut13074562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikdut13074562" height="35" width="45" /></a>
 <a href="https://linkedin.com/in/anik-dutta-86526021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-dutta-86526021b" height="35" width="45" /></a>
 <a href="https://instagram.com/_.anik._08.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anik._08.10" height="35" width="45" /></a>
