@@ -1,5 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/anik0810/anik0810/main/back-removebg.png" height="300rem"></div>
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/anik0810/anik0810/main/back-removebg.png" height="400rem"></div>
 <h1 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Anik Dutta</a></h1>
 <p align="center">B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef,Full Stack Devoloper using MERN Stack 😉.Currently Learning Advnce DSA 😊.</p>
 <br/>
