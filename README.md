@@ -36,12 +36,12 @@
  
  <h2 align="left">📊My Github Stats</h2>
  <br/>
- 
+<!--  
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&hide_border=true&layout=compact)](https://github.com/anik0810/github-readme-stats)
   
- </div>
+ </div> -->
  
   <div align="center">
   
