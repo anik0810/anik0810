@@ -45,7 +45,7 @@
  
   <div align="center">
   
-  ![Anik's GitHub stats](https://github-readme-stats.vercel.app/api username=anik0810&show_icons=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=react)
+ ![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&show_icons=true&hide_border=true&theme=react&hide_border=true&bg_color=0D1117)
   
  </div>
 
