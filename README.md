@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/anik0810/anik0810/main/anik-gihub-banner.png" height="300rem"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/anik0810/anik0810/main/anik-github.png" height="300rem"></div>
 <h1 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Anik Dutta</a></h1>
 
 ## 💫 About Me:
