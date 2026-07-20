@@ -2,6 +2,23 @@
 <h1 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/anik-dutta-86526021b/">Anik Dutta</a></h1>
 
 # 💫 About Me:
+I'm a **Software Engineer** with 2+ years of experience designing scalable web applications, cloud-native platforms, and AI-powered products.
+
+Currently, I work on production systems involving **Next.js, React, Node.js, NestJS, TypeScript, MongoDB, AWS, Google Cloud, and Generative AI**.
+
+### Things I enjoy building
+
+🧠 AI Agents & LLM Applications
+
+☁️ Cloud-Native Systems
+
+🌐 Large Scale Full-Stack Applications
+
+📱 Cross Platform Mobile Apps
+
+⚡ High Performance Backend APIs
+
+---
 🚀 Engineering Focus -<br>    🤖 Production-ready AI Applications using OpenAI, Gemini & LangChain<br>    ☁️ Cloud Infrastructure, DevOps & Scalable Deployments<br>    🌐 Modern Full-Stack Development with React, Next.js & TypeScript<br>    📱 Mobile Applications with React Native<br>     🏗 Backend Architecture using Node.js, NestJS & MongoDB<br>     📈 Performance Optimization & System Design
 
 
